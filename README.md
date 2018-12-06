@@ -4,20 +4,18 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(December, 6, 2018)
 
 ### Student Name:  
-(First and Last Name)
+(Austin Taylor)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+(This project included the introduction of jquery into a index.html file to make changes on a recipe display application.)
 
 ### View Project Online:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. (In this lesson I learned how to utilize different jQuery selectors..)
+2. (In this lesson I learned how to inspect the DOM through javascript console pane.)
+3. (In this lesson I learned how to clone and rename files in cloud9.)
 
